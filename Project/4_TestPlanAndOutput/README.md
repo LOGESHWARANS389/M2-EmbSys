@@ -10,4 +10,4 @@
 | TID_06  | Temperature Request | Temp=230 deg Cel| Cooler Fan=ON | PASS  |
 | TID_07  | LED ON | Push Button=1 && Cooler Fan=1| LED=1 | PASS  |
 | TID_08  | LED OFF | Push Button=0 && Cooler Fan=0| LED=0 | PASS  |
-| TID_09  | LCD Display | Temperature <br />230 deg Cel| Temperature <br />230 deg Cel| PASS  |
+| TID_09  | LCD Display | Temperature: <br />230 deg Cel| Temperature: <br />230 deg Cel| PASS  |
