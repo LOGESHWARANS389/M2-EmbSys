@@ -1,4 +1,4 @@
-# Test Plans
+# Test Plan and Output
 
 |  Test ID | Description  | Input  | Output  | Status |
 |---|---|---|---|---|
