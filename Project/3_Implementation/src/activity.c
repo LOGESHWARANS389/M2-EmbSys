@@ -5,7 +5,7 @@
  * @version 0.1
  * @date 05-03-2022
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 
@@ -61,7 +61,7 @@ void PWM_OUPUT(uint16_t ADC_READING){
 
     if(ADC_READING>0 && ADC_READING<=200){
 
-        OCR1A = 195; // Duty cycle 20%
+        OCR1A = 195; // 
         Temp[0] = '2';
         Temp[1] = '0';
         Temp[2] = 223;
@@ -75,7 +75,7 @@ void PWM_OUPUT(uint16_t ADC_READING){
     }
     else if((ADC_READING>=210) && (ADC_READING<=500)){
 
-        OCR1A = 495; // duty cycle 40%
+        OCR1A = 495; 
         Temp[0] = '2';
         Temp[1] = '5';
         Temp[2] = 223;
@@ -89,7 +89,7 @@ void PWM_OUPUT(uint16_t ADC_READING){
     }
     else if((ADC_READING>=501) && (ADC_READING<=700)){
 
-        OCR1A = 695;// duty cycle 70%
+        OCR1A = 695;
         Temp[0] = '2';
         Temp[1] = '9';
         Temp[2] = 223;
@@ -103,7 +103,7 @@ void PWM_OUPUT(uint16_t ADC_READING){
     }
     else if((ADC_READING>=701) && (ADC_READING<=1024)){
 
-        OCR1A = 1019; // duty cycle 95%
+        OCR1A = 1019; 
         Temp[0] = '3';
         Temp[1] = '3';
         Temp[2] = 223;
@@ -116,7 +116,7 @@ void PWM_OUPUT(uint16_t ADC_READING){
         _delay_ms(20);
     }
     else{
-        OCR1A = 0; // Duty cycle 0%
+        OCR1A = 0; 
         Temp[0] = 'O';
         Temp[1] = 'F';
         Temp[2] = 'F';
