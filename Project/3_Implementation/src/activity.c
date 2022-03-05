@@ -11,7 +11,6 @@
 
 /**
  * @brief ADC Initialization
- * 
  */
 void ADC_INITIALIZATION()
 {
