@@ -7,7 +7,7 @@
 
 # Behavioral Diagram
 * High Level Behavioral Diagram:
-
+![HIGH](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/BEHAVORIALHIGH.jpg)
 * Low Level Behavioral Diagram:
 
 # 6. COMPONENTS:
