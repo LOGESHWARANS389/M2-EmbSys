@@ -1,5 +1,5 @@
 # BLOCK DIAGRAM
-https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/BlockDiagram.jpg
+![BLOCKDIAGRAM](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/BlockDiagram.jpg)
 
 # FLOW DIAGRAM
 
