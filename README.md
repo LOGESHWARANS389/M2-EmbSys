@@ -4,7 +4,7 @@
 |-------------------| -----------------------------------------|
 | `1_Requirements`   | Documents detailing requirements and research|
 | `2_Design`         | Documents specifying design details|
-| `3_Implementation` | All code and documentation|
+| `3_Implementation` | All codes and documentation|
 | `4_TestPlanAndOutput`      | Documents with test plans and Outputs|
-| `5_Simulations`      | SimulIDE simulation file|
-| `6_ImagesAndVideos`      | Simulation Images and Videos|
+| `5_Report`      | Detailed report documents|
+| `6_ImagesAndVideos`      | Simulation Images|
