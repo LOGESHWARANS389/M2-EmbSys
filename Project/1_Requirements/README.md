@@ -10,30 +10,30 @@
 	for reducing the engines heat and then the fan will be switched OFF when the engine becomes to the normal fixed temperature.
 
 # 2. FEATURES
-* Button sensor will check the engine is started or not.
-* Displays the temperature value in LCD.
-* As per the recommendation the cooling fan will be turned ON.
-* It is low cost and cost efficient.
+  * Button sensor will check the engine is started or not.
+  * Displays the temperature value in LCD.
+  * As per the recommendation the cooling fan will be turned ON.
+  * It is low cost and cost efficient.
 
 # 3. SWOT ANALYSIS
 ## 3.1. S-STRENGTH
-* Low cost
-* Measures temperature accurately
-* Better performance
+  * Low cost
+  * Measures temperature accurately
+  * Better performance
 
 ## 3.2. W-WEAKNESS
-* Fix the temperature range
-* Occupies more space
-* Needs additional source of energy
+  * Fix the temperature range
+  * Occupies more space
+  * Needs additional source of energy
 
 ## 3.3. O-OPPORTUNITIES
-* Shall be implement using solar energy
-* Shall be implement mobile application for viewing the engine’s temperature
-* Shall use different microcontrollers
-* Shall use different sensors
+  * Shall be implement using solar energy
+  * Shall be implement mobile application for viewing the engine’s temperature
+  * Shall use different microcontrollers
+  * Shall use different sensors
 
 ## 3.4. T-THREATS
-* If the components get damage it is complicated to replace.
+  * If the components get damage it is complicated to replace.
 
 # 4. 4W's and 1'H
 ## 4.1. Who:
