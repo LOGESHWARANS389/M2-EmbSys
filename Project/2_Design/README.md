@@ -2,6 +2,7 @@
 ![BLOCKDIAGRAM](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/BlockDiagram.jpg)
 
 # FLOW DIAGRAM
+![FLOWDIAGRAM](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/FlowDiagram.jpg)
 
 
 # 6. COMPONENTS:
