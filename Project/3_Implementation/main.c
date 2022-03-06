@@ -16,7 +16,7 @@
 #include"Activity3.h"
 int main(void)
 {
-    ENGINE_STARTING(); //Initializing Drivers seat
+    ENGINE_STARTING(); //Initializing Engine
     ADC_INITIALIZATION(); //Initializing ADC to accept temperature values
     TIMER_INITIALIZATION(); //Initializing Timer by dividing clock with 64 prescale
     LCD_INITIALIZATION(); //Initializing LCD
@@ -25,7 +25,7 @@ int main(void)
 
 	while(1)
     {
-        if(ENGINE_START)
+        if(ENGINE_CHECK)
         {
             PORTD|=(1<<PD2);
             if(COOLER_ON){
