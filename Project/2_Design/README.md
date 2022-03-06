@@ -1,14 +1,20 @@
 # Structural Diagram
 * High Level Structural Diagram:
+
 ![BLOCKDIAGRAM](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/BlockDiagram.jpg)
 
 * Low Level Structural Diagram:
+
 ![FLOWDIAGRAM](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/FlowDiagram.jpg)
 
 # Behavioral Diagram
 * High Level Behavioral Diagram:
+
 ![HIGH](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/BEHAVORIALHIGH.jpg)
+
 * Low Level Behavioral Diagram:
+
+
 
 # 6. COMPONENTS:
 ## 6.1 ATMEGA328P
