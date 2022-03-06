@@ -14,7 +14,7 @@
 
 * Low Level Behavioral Diagram:
 
-
+![LOW] (https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/BEHAVIORALLOW.jpg)
 
 # 6. COMPONENTS:
 ## 6.1 ATMEGA328P
