@@ -36,23 +36,23 @@
   * If the components get damage it is complicated to replace.
 
 # 4. 4W's and 1'H
-## 4.1. Who:
+## 4.1. Who
 This shall be used for all the automotive industry
 
-## 4.2. What:
+## 4.2. What
 This shall reduce the heat of the vehicle’s engines
 
-## 4.3. When:
+## 4.3. When
 This shall be used when the engine gets heated 
 
-## 4.4. Where:
+## 4.4. Where
 This shall be used in all the vehicles
 
-## 4.5. How:
+## 4.5. How
 This shall be used by reducing the heat of the engine by cooling fan
 
 # 5. DETAIL REQUIREMENTS
-## 5.1. HIGH LEVEL REQUIREMENTS:
+## 5.1. HIGH LEVEL REQUIREMENTS
 |  ID | Description  | Status  |
 |---|---|---|
 | HLR1 | Sensors | Implemented |
@@ -60,7 +60,7 @@ This shall be used by reducing the heat of the engine by cooling fan
 | HLR3 | Micro controller | Implemented |
 | HLR4 | Software | Implemented  |
 
-## 5.2 LOW LEVEL REQUIREMENTS:
+## 5.2 LOW LEVEL REQUIREMENTS
 |  ID | Description  | Status  |
 |---|---|---|
 | HLR1_LLR1 | Potentiometer (1k ohm) |	Implemented |
