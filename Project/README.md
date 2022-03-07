@@ -1,6 +1,7 @@
 # SMART ENGINE COOLING FAN
 
-[![CI](https://github.com/LOGESHWARANS389/M2-EmbSys/actions/workflows/blank.yml/badge.svg)](https://github.com/LOGESHWARANS389/M2-EmbSys/actions/workflows/blank.yml)
+[![CI](https://github.com/LOGESHWARANS389/M2-EmbSys/actions/workflows/blank.yml/badge.svg)](https://github.com/LOGESHWARANS389/M2-EmbSys/actions/workflows/blank.yml) 
+[![codiga](https://api.codiga.io/project/31615/score/svg)(https://api.codiga.io/project/31615/status/svg)]
 ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
